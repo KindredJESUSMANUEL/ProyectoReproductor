@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Reproductor_Multimedia</string>
+    <string name="Galería">Galería</string>
+    <string name="Micrófono">Micrófono</string>
+    <string name="Música">Música</string>
+    <string name="Video">Vídeo</string>
+    <string name="Cámara">Cámara</string>
+    <string name="Galeria_de_imagenes">Galería de archivos</string>
+    <string name="Grabadora">Grabadora de audio</string>
+    <string name="Reproduce_Musica">Reproductor de Música</string>
+    <string name="Videos">Reproductor de Vídeo</string>
+    <string name="Camara_fotos_videos">Fotos y Vídeos</string>
+    <string name="Fotos">Fotos</string>
+    <string name="Hacer_Videos">Vídeos</string>
+    <string name="Camara_fotos">Camara de fotos</string>
+    <string name="Grabadora_videos">Grabadora de videos</string>
+    <string name="Hacer_videos">Grabar un video</string>
+    <string name="Fotos_capturar">Hacer una foto</string>
+    <string name="Buscar_video">Vídeos</string>
+    <string name="Buscador_videos">Elegir archivo de video</string>
+    <string name="Reproducir_video">Reproducir</string>
+    <string name="Comenzar_video">Reproducir vídeo</string>
+    <string name="Archivos">Galería de archivos</string>
+    <string name="Grabar_videos">Grabar un vídeo</string>
+    <string name="On">On</string>
+    <string name="Off">Off</string>
+    <string name="Grabar_Audio">Empezar Grabación</string>
+    <string name="Fin_Grabacion">Finalizar Grabación</string>
+    <string name="Reproducir_Audio_Grabado">Reproducir Grabación</string>
+    <string name="Reproducir_Grabacion_Grabada_On">Reproducir</string>
+    <string name="Detener_Audio_Grabado">Detener</string>
+    <string name="Detener_Audio_Grabado_Off">Detener Audio</string>
+</resources>
